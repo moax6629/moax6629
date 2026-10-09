@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moaz Tariq
+- 👋 Hi, I’m Moaz
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on anything being developed with Go
